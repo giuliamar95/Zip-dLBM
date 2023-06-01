@@ -15,3 +15,12 @@ This GitHub repository contains the code implementation for the dynamic co-clust
 - pip install line-profiler 
 - conda install pathos 
 - Rscript_Exp1.R (or Rscript_Real.R for London's Bike data)
+
+
+### Execution:
+To run the first experiment do:
+- Rscript Script_Exp1.R
+
+To run the experiment on London Bikes' data do:
+- Rscript Script-LondonBikes
+The folder "data" containes the data used in the paper, downloaded from: **https://cycling.data.tfl.gov.uk**
