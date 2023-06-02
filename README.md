@@ -22,5 +22,6 @@ To run the first experiment do:
 - Rscript Script_Exp1.R
 
 To run the experiment on London Bikes' data do:
+- conda install -c conda-forge r-ggmap r-leaflet r-mapdata
 - Rscript Script-LondonBikes
 The folder "data" containes the data used in the paper, downloaded from: **https://cycling.data.tfl.gov.uk**
