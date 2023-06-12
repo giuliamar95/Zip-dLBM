@@ -14,7 +14,7 @@ This GitHub repository contains the code implementation for the dynamic co-clust
 - conda install -c conda-forge r-base r-slam r-rlab r-reticulate
 - pip install line-profiler 
 - conda install pathos 
-- Rscript_Exp1.R (or Rscript_Real.R for London's Bike data)
+- Rscript Script_Exp1.R (or Script-LondonBikes.R for London's Bike data)
 
 
 ### Execution:
